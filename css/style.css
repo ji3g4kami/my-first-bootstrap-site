@@ -1,0 +1,15 @@
+.my-nav {
+    background: #FF6600;
+}
+
+.my-nav ul {
+    margin: 10px 0;
+}
+
+.round-img {
+    border-radius: 100%;
+}
+
+body {
+    padding-top: 73px;
+}
